@@ -7,10 +7,10 @@ Este é um projeto Spring Boot que demonstra operações CRUD (Create, Read, Upd
 Desenvolver uma API REST com as seguintes funcionalidades:
 
 1. Implementar endpoints para operações CRUD:
-   - Criar novo registro
-   - Consultar registros
-   - Atualizar registro existente
-   - Deletar registro
+   - Criar novo registro (body json)
+   - Consultar registros (by id)
+   - Atualizar registro existente (by id)
+   - Deletar registro (by id)
 
 2. Utilizar:
    - Spring Boot
